@@ -1,2 +1,19 @@
-# simulacao1
-Repositório para relembrar.
+# PROJETO EMPRESARIAL
+Logo aqui vocês podem inserir a Visão do Produto, que nada mais é que uma descrição bem objetiva do prosuto que está sendo desenvolvido
+
+## PROBLEMA
+Aqui vocês podem especificar o problema ou a situação que motiva a criação do produto.
+
+## PÚBLICO
+Aqui vocês podem colocar o público, ou melhor, para quem o produto é direcionado
+
+## OBJETIVO
+Aqui vocês devem colocar os objetivos.
+
+- Objetivo 1
+
+- Objetivo 2
+
+- Objetivo 3
+
+- Objetivo 4
